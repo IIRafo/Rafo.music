@@ -1,0 +1,6 @@
+/* Seção "O que são stems?": textos explicativos acima da sessão interativa. Não altera estilos existentes. */
+.stem-uses{list-style:none;margin:40px 0 8px;padding:0;display:grid;gap:0;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr))}
+.stem-uses li{padding:24px 24px 24px 0;border-top:1px solid var(--line)}
+.stem-uses h3{font-size:1.2rem;text-transform:uppercase;margin-bottom:8px}
+.stem-uses p{color:var(--mute)}
+.stem-try{font-size:clamp(1.4rem,4vw,2rem);margin:40px 0 12px}
