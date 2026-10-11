@@ -7,7 +7,7 @@ export const SITE = {
   tiktok: "https://tiktok.com/@rafo.music",
   youtube: "",                // TROCAR: link do canal (vazio = não aparece)
   email: "contact.rafo.music@gmail.com",
-  photo: "",                  // TROCAR: ex. "/images/rafo.jpg" (arquivo em /public/images)
+  photo: "/images/rafo.jpg",                  // TROCAR: ex. "/images/rafo.jpg" (arquivo em /public/images)
   /* Preços exibidos na seção de licenças enquanto nenhum beat foi selecionado.
      Ao clicar em VER LICENÇAS, valem os preços do próprio beat (data/beats.ts). */
   defaultPrices: { basic: 49.9, premium: 149.9, exclusive: 799.9 },

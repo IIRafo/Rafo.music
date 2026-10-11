@@ -10,7 +10,11 @@ export const BEATS: Beat[] = [
   { id:"B002", name:"Insanity",    bpm:133, key:"B minor", genre:"Hard Trap",  description:"Placeholder", duration:"3:30",
     cover:"", previewAudio:"/audio/INSANIDADE MP3 - Copia.mp3", basicPrice:49.90, premiumPrice:149.90, exclusivePrice:799.90, status:"available", createdAt:"2026-02-01", plays:0 },
   { id:"B003", name:"Gross", bpm:128, key:"C minor", genre:"Hard Trap",             description:"Placeholder", duration:"3:08",
-    cover:"", previewAudio:"/audio/Gross MP3 - Copia.mp3", basicPrice:49.90, premiumPrice:149.90, exclusivePrice:799.90, status:"available", createdAt:"2026-01-01", plays:0 }
+    cover:"", previewAudio:"/audio/Gross MP3 - Copia.mp3", basicPrice:49.90, premiumPrice:149.90, exclusivePrice:799.90, status:"available", createdAt:"2026-01-01", plays:0 },
+  { id:"B004", name:"Redenção", bpm:133, key:"E minor", genre:"Trap", description:"Placeholder", duration:"3:17",
+     cover:"", previewAudio:"/audio/Redenção MP3.mp3",
+     basicPrice:49.90, premiumPrice:149.90, exclusivePrice:799.90,
+     status:"available", createdAt:"2026-10-09", plays:0 },
 ];
 
 export const GENRES = ["Todos","Trap","Alternative","R&B","Drill","Hard Trap"];
