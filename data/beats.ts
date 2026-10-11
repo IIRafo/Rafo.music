@@ -15,6 +15,10 @@ export const BEATS: Beat[] = [
      cover:"", previewAudio:"/audio/Redenção MP3.mp3",
      basicPrice:49.90, premiumPrice:149.90, exclusivePrice:799.90,
      status:"available", createdAt:"2026-10-09", plays:0 },
+  { id:"B005", name:"GRITOS", bpm:157, key:"D minor", genre:"Trap", description:"Placeholder", duration:"4:16",
+     cover:"", previewAudio:"/audio/GRITOS.mp3",
+     basicPrice:49.90, premiumPrice:149.90, exclusivePrice:799.90,
+     status:"available", createdAt:"2026-10-09", plays:0 },
 ];
 
 export const GENRES = ["Todos","Trap","Alternative","R&B","Drill","Hard Trap"];
